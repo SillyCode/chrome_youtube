@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Youtube shortcut",
+  "description": "This extension opens Youtube in a new tab.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "youtube-19.png",
+    "default_popup": ""
+  },
+"background": { "scripts": ["code.js"] },
+  
+  "permissions": [
+    "http://youtube.com/",
+	"tabs"
+  ]
+
+}

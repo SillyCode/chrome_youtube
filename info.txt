@@ -1,0 +1,8 @@
+The Chrome Extension includes the following files:
+
+chrome_extension.crx - A Google Chrome Browser Extension Archive file (this is the extension).
+chrome_extension.pem - This is a file containing a key unique public key for the extension.
+manifest.txt - This is the manifest file required by the extension.
+code.js - This is where the code goes, together with manifest.txt file.
+youtube-19.png - This is the icon for the extension.
+license.txt - This is the license and author note file.

@@ -1,0 +1,7 @@
+To install the extension just drag and drop the .crx file onto your chrome browser 
+this should do the trick.
+
+If for some reason it doesn't work go to:  chrome://chrome/extensions/ 
+and try dragging the file once again to the browser.
+
+Good luck and enjoy.
